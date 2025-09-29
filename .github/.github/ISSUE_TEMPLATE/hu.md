@@ -1,0 +1,19 @@
+---
+name: Historia de Usuario
+about: Plantilla para registrar Historias de Usuario
+---
+
+**Como** <rol> **quiero** <acción> **para** <beneficio>
+
+ Épica: ...  
+ Prioridad: ...  
+ Tamaño: ...  
+
+### Criterios de aceptación
+- [ ] ...
+
+### Tareas
+- [ ] ...
+
+### Notas técnicas
+- ...
