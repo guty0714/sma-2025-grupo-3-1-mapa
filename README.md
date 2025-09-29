@@ -38,4 +38,3 @@ Visibilizar el potencial turístico, cultural y social de Cali a través de una 
 - `docs: ...` → cambios en documentación  
 - `chore: ...` → tareas menores  
 
-## Estructura del proyecto (Unity)
