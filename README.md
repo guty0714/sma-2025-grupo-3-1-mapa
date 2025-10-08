@@ -23,8 +23,8 @@ Visibilizar el potencial turístico, cultural y social de Cali a través de una 
 ## Equipo
 - Grupo 3.1 – Mapa Multimedia Offline  
 - Integrantes:  
-  - [Nombre 1]  
-  - [Nombre 2]  
+  - [Juan Santiago Gutierrez Panesso]  
+  - [Juan Pablo Gutierrez Panesso]  
 
 ## Flujo de trabajo con Git
 1. La rama `main` está protegida (solo permite integración mediante Pull Requests).  
